@@ -1,2 +1,9 @@
-# Interactive-balanced-tree
-Implementation certain requests based on balanced tree 
+### Implementation of certain requests based on AVL-tree
+---
+## How to build the project 
+```
+	mkdir build
+	cd build
+	cmake ..
+	make 
+```
